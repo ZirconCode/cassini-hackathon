@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: LiveYourGreens
+Version: 0.0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Live Your Greens Team
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: liveyourgreens
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2.7
+Requires-Python: ~=3.8
+Description-Content-Type: text/x-rst

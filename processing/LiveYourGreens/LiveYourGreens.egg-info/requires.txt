@@ -1,9 +1,0 @@
-numpy
-pyhdf
-matplotlib
-rasterio
-scikit-image
-tqdm
-scipy
-pandas
-seaborn
